@@ -21,3 +21,4 @@ venv/
 # Saját munkakönyvtárak
 WORK/input/
 WORK/output/
+WORK/logs/
