@@ -1,0 +1,7 @@
+pillow
+python-docx
+xlrd
+openpyxl
+pywin32
+pymupdf
+acrcloud_sdk

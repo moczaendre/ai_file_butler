@@ -1,0 +1,23 @@
+# Python cache-ek
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Log fájlok
+*.log
+
+# IDE fájlok
+.vscode/
+*.suo
+*.user
+*.sln
+.idea/
+
+# Virtuális környezet
+env/
+venv/
+
+# Saját munkakönyvtárak
+WORK/input/
+WORK/output/

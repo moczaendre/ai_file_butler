@@ -1,0 +1,176 @@
+2025-06-22 00:18:05 | INFO  | mp3        | MP3 azonosítva. title='Szám 1', artist='Ismeretlen elõadó'
+2025-06-22 00:18:05 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\01 Ritmus.mp3 → D:\WORK\PYTHON\ai_file_butler\WORK\output\MP3\mp3\Ismeretlen elõadó\Ismeretlen elõadó - Szám 1.mp3
+2025-06-22 00:18:06 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\02 - Track  2.wav → D:\WORK\PYTHON\ai_file_butler\WORK\output\MP3\mp3\Brian Poole\Brian Poole - Do You Love Me.mp3
+2025-06-22 00:18:07 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\08 - Track  8.wav → D:\WORK\PYTHON\ai_file_butler\WORK\output\MP3\mp3\Mary Hopkin\Mary Hopkin - Those Were the Days (2010 - Remaster).mp3
+2025-06-22 00:18:08 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\08 Szám 8.mp3 → D:\WORK\PYTHON\ai_file_butler\WORK\output\MP3\mp3\Little Richard\Little Richard - Long Tall Sally.mp3
+2025-06-22 00:18:09 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\12 - H.T.mp3 → D:\WORK\PYTHON\ai_file_butler\WORK\output\MP3\mp3\Dr.Donuts\Dr.Donuts - H.T.mp3
+2025-06-22 00:18:09 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\12 - Track 12.wav → D:\WORK\PYTHON\ai_file_butler\WORK\output\MP3\mp3\Showaddywaddy\Showaddywaddy - Under the Moon of Love.mp3
+2025-06-22 00:18:10 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\2024-214.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\SZAMLA\2024-214.pdf
+2025-06-22 00:18:10 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: 20240707_114403.jpg – Nem található EXIF helyadat mező.
+2025-06-22 00:18:10 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_114403.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_114403.jpg
+2025-06-22 00:18:10 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_114403.jpg
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_143407.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_143408.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144126.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144129.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144247.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:18:10 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144424.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:18:10 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\8405100156_3351306290.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\ISMERETLEN\8405100156_3351306290.pdf
+2025-06-22 00:18:10 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\Ady Endre- Tétel.docx → D:\WORK\PYTHON\ai_file_butler\WORK\output\OFFICE\Ady Endre- Tétel.docx
+2025-06-22 00:18:10 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\araink-fogorvos-fogaszat-kecskemet-fogpotlas-dentalux-20210201.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\ISMERETLEN\araink-fogorvos-fogaszat-kecskemet-fogpotlas-dentalux-20210201.pdf
+2025-06-22 00:20:24 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:24 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:24 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_143407.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_143408.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144126.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144129.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144247.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | image      | ⚠️ DMS érték hiba: 'IFDRational' object is not subscriptable
+2025-06-22 00:20:25 | ERROR | img        | ⚠️ Hiba KÉP feldolgozásánál: 20240707_144424.jpg – Unknown format code 'f' for object of type 'str'
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\ashampoo_burning_studio_free_24045.exe – 'str' object has no attribute 'name'
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\ashampoo_burning_studio_free_24045.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\multimedia\ashampoo_burning_studio_free_24045.exe
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\coreftplite64.exe – (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'A megadott erőforrástípus nem található a programkódban.')
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\coreftplite64.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\ismeretlen\coreftplite64.exe
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\dokumentum-1.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\LELET\dokumentum-1.pdf
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\GoogleDriveSetup.exe – 'str' object has no attribute 'name'
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\GoogleDriveSetup.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\telepitok\GoogleDriveSetup.exe
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\HU42119911198050974100000000_4634548391.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\ISMERETLEN\HU42119911198050974100000000_4634548391.pdf
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\HU42119911198050974100000000_4827617329.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\ISMERETLEN\HU42119911198050974100000000_4827617329.pdf
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\i0f477_gen_20240601.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\SZAMLA\i0f477_gen_20240601_T24-478367.pdf
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image030.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image030.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_28 -\image030.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_28 -\image030.JPG
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image031.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image031.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_28 -\image031.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_28 -\image031.JPG
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image042.jpg – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image042.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_30 -\image042.jpg
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_30 -\image042.jpg
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image043.jpg – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image043.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_30 -\image043.jpg
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_30 -\image043.jpg
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_20180717_194046.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_20180717_194046.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2018\2018_07_17 -\IMG_20180717_194046.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2018\2018_07_17 -\IMG_20180717_194046.JPG
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_20180717_194054.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_20180717_194054.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2018\2018_07_17 -\IMG_20180717_194054.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2018\2018_07_17 -\IMG_20180717_194054.JPG
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_7878.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_7878.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_04_15 -\IMG_7878.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_04_15 -\IMG_7878.JPG
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_7879.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_7879.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_04_15 -\IMG_7879.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_04_15 -\IMG_7879.JPG
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_8247.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_8247.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_12_26 -\IMG_8247.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_12_26 -\IMG_8247.JPG
+2025-06-22 00:20:25 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_8248.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_8248.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_12_26 -\IMG_8248.JPG
+2025-06-22 00:20:25 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_12_26 -\IMG_8248.JPG
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\jotallas.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\ISMERETLEN\jotallas.pdf
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\KerelemTMGI_elonezet.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\IGAZOLAS\KerelemTMGI_elonezet.pdf
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\lide60vst6411111a_64hu.exe – (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'A megadott erőforrástípus nem található a programkódban.')
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\lide60vst6411111a_64hu.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\ismeretlen\lide60vst6411111a_64hu.exe
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\MediaCreationTool_Win11_23H2.exe – 'str' object has no attribute 'name'
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\MediaCreationTool_Win11_23H2.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\multimedia\MediaCreationTool_Win11_23H2.exe
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\MT-2024-5.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\SZAMLA\2024-05-01_MT-2024-5.pdf
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\Negyevf_2024_42.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\ISMERETLEN\Negyevf_2024_42.pdf
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\python-3.11.0-amd64.exe – 'str' object has no attribute 'name'
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\python-3.11.0-amd64.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\fejlesztoi_eszkozok\python-3.11.0-amd64.exe
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\RapidTyping_Setup_Hungarian_5.4.exe – (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'A megadott erőforrástípus nem található a programkódban.')
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\RapidTyping_Setup_Hungarian_5.4.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\telepitok\RapidTyping_Setup_Hungarian_5.4.exe
+2025-06-22 00:20:25 | ERROR | exe        | ⚠️ Hiba az .exe fájl vizsgálatánál: D:\WORK\PYTHON\ai_file_butler\WORK\input\rustup-init.exe – (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'A megadott erőforrástípus nem található a programkódban.')
+2025-06-22 00:20:25 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\rustup-init.exe → D:\WORK\PYTHON\ai_file_butler\WORK\output\EXE\fejlesztoi_eszkozok\rustup-init.exe
+2025-06-22 00:20:26 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\Track  3.mp3 → D:\WORK\PYTHON\ai_file_butler\WORK\output\MP3\mp3\ZZ Top\ZZ Top - Squank.mp3
+2025-06-22 00:20:26 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\VédőnőiSzűrés_Mócza Zsófia_20241015_20241021.pdf → D:\WORK\PYTHON\ai_file_butler\WORK\output\PDF\LELET\VédőnőiSzűrés_Mócza Zsófia_20241015_20241021.pdf
+2025-06-22 00:20:26 | INFO  | general    | 🗑️ Törölve: [bHUm_#1156635]Bambi_A_Tale_of_Life_in_the_Woods_2024_BDRip_x264_HUN-FULCRUM.torrent
+2025-06-22 00:33:45 | ERROR | img        | ⚠️ Helyadat konverziós hiba: 20240707_143407.jpg – could not convert string to float: 'lat'
+2025-06-22 00:33:45 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_143407.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_143407.jpg
+2025-06-22 00:33:45 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_143407.jpg
+2025-06-22 00:33:45 | ERROR | img        | ⚠️ Helyadat konverziós hiba: 20240707_143408.jpg – could not convert string to float: 'lat'
+2025-06-22 00:33:45 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_143408.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_143408.jpg
+2025-06-22 00:33:45 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_143408.jpg
+2025-06-22 00:33:45 | ERROR | img        | ⚠️ Helyadat konverziós hiba: 20240707_144126.jpg – could not convert string to float: 'lat'
+2025-06-22 00:33:45 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144126.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144126.jpg
+2025-06-22 00:33:45 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144126.jpg
+2025-06-22 00:33:45 | ERROR | img        | ⚠️ Helyadat konverziós hiba: 20240707_144129.jpg – could not convert string to float: 'lat'
+2025-06-22 00:33:45 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144129.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144129.jpg
+2025-06-22 00:33:45 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144129.jpg
+2025-06-22 00:33:45 | ERROR | img        | ⚠️ Helyadat konverziós hiba: 20240707_144247.jpg – could not convert string to float: 'lat'
+2025-06-22 00:33:45 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144247.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144247.jpg
+2025-06-22 00:33:45 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144247.jpg
+2025-06-22 00:33:45 | ERROR | img        | ⚠️ Helyadat konverziós hiba: 20240707_144424.jpg – could not convert string to float: 'lat'
+2025-06-22 00:33:45 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144424.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144424.jpg
+2025-06-22 00:33:45 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144424.jpg
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: 20240707_114403.jpg – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_114403.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_114403.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_114403.jpg
+2025-06-22 00:39:53 | INFO  | img        | [GPS] Helyadat: 20240707_143407.jpg; 39.67890, 19.69835 → https://maps.google.com/?q=39.67890,19.69835
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_143407.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_143407.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_143407.jpg
+2025-06-22 00:39:53 | INFO  | img        | [GPS] Helyadat: 20240707_143408.jpg; 39.67890, 19.69834 → https://maps.google.com/?q=39.67890,19.69834
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_143408.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_143408.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_143408.jpg
+2025-06-22 00:39:53 | INFO  | img        | [GPS] Helyadat: 20240707_144126.jpg; 39.67890, 19.69832 → https://maps.google.com/?q=39.67890,19.69832
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144126.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144126.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144126.jpg
+2025-06-22 00:39:53 | INFO  | img        | [GPS] Helyadat: 20240707_144129.jpg; 39.67890, 19.69832 → https://maps.google.com/?q=39.67890,19.69832
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144129.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144129.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144129.jpg
+2025-06-22 00:39:53 | INFO  | img        | [GPS] Helyadat: 20240707_144247.jpg; 39.67889, 19.69833 → https://maps.google.com/?q=39.67889,19.69833
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144247.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144247.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144247.jpg
+2025-06-22 00:39:53 | INFO  | img        | [GPS] Helyadat: 20240707_144424.jpg; 39.67890, 19.69832 → https://maps.google.com/?q=39.67890,19.69832
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\20240707_144424.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2024\2024_07_07 -\20240707_144424.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2024\2024_07_07 -\20240707_144424.jpg
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image030.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image030.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_28 -\image030.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_28 -\image030.JPG
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image031.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image031.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_28 -\image031.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_28 -\image031.JPG
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image042.jpg – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image042.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_30 -\image042.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_30 -\image042.jpg
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: image043.jpg – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\image043.jpg → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2020\2020_07_30 -\image043.jpg
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2020\2020_07_30 -\image043.jpg
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_20180717_194046.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_20180717_194046.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2018\2018_07_17 -\IMG_20180717_194046.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2018\2018_07_17 -\IMG_20180717_194046.JPG
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_20180717_194054.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_20180717_194054.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2018\2018_07_17 -\IMG_20180717_194054.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2018\2018_07_17 -\IMG_20180717_194054.JPG
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_7878.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_7878.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_04_15 -\IMG_7878.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_04_15 -\IMG_7878.JPG
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_7879.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_7879.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_04_15 -\IMG_7879.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_04_15 -\IMG_7879.JPG
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_8247.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_8247.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_12_26 -\IMG_8247.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_12_26 -\IMG_8247.JPG
+2025-06-22 00:39:53 | WARNING | image      | ⚠️ EXIF helyadat (GPS) olvasási hiba: IMG_8248.JPG – Nem található EXIF helyadat mező.
+2025-06-22 00:39:53 | INFO  | rename     | D:\WORK\PYTHON\ai_file_butler\WORK\input\IMG_8248.JPG → D:\WORK\PYTHON\ai_file_butler\WORK\output\IMG\2022\2022_12_26 -\IMG_8248.JPG
+2025-06-22 00:39:53 | INFO  | image      | [KÉP] Áthelyezve: IMG\2022\2022_12_26 -\IMG_8248.JPG
